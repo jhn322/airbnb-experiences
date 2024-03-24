@@ -1,6 +1,6 @@
-## Preview website:
+# Meme Generator:
 
-[Netlify](https://jhn-airbnb-experiences.netlify.app/)
+[Preview on Netlify](https://jhn-airbnb-experiences.netlify.app/)
 
 ### React + Vite
 
