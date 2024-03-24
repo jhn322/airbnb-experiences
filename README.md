@@ -1,6 +1,6 @@
 ## Preview website:
 
-[Netlify](https://jhn-airbnb-site.netlify.app/)
+[Netlify](https://jhn-airbnb-experiences.netlify.app/)
 
 ### React + Vite
 
