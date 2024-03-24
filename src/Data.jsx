@@ -1,6 +1,9 @@
 import swim from "./assets/swimmer.jpg";
 import photograph from "./assets/photography.jpg";
 import bike from "./assets/biking.jpg";
+import skydive from "./assets/skydiving.jpg";
+import dive from "./assets/scubadive.jpg";
+import climb from "./assets/climbing.jpg";
 
 const Data = [
   {
@@ -47,45 +50,45 @@ const Data = [
   },
   {
     id: 4,
-    title: "Group Mountain Biking",
+    title: "Skydiving experience",
     description:
-      "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
-    price: 65,
-    coverImg: bike,
+      "Experience the ultimate rush as you leap into the boundless skies above Australia, where every freefall is a thrilling dance with gravity and freedom.",
+    price: 224,
+    coverImg: skydive,
     stats: {
-      rating: 4.8,
-      reviewCount: 24,
+      rating: 3.8,
+      reviewCount: 44,
     },
-    location: "Norway",
-    openSpots: 3,
+    location: "United Emirates",
+    openSpots: 2,
   },
   {
     id: 5,
-    title: "Group Mountain Biking",
+    title: "Scuba diving dream",
     description:
-      "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
-    price: 65,
-    coverImg: bike,
+      "Dive into the vibrant depths of Australia's marine wonderland, where every plunge unveils an underwater kaleidoscope of life and color.",
+    price: 139,
+    coverImg: dive,
     stats: {
-      rating: 4.8,
-      reviewCount: 24,
+      rating: 4.5,
+      reviewCount: 65,
     },
-    location: "Norway",
-    openSpots: 3,
+    location: "Australia",
+    openSpots: 2,
   },
   {
     id: 6,
-    title: "Group Mountain Biking",
+    title: "Mountain climbing",
     description:
-      "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
-    price: 65,
-    coverImg: bike,
+      "Embark on an exhilarating ascent amidst Australia's rugged peaks, where each step echoes the triumph of conquering nature's majestic heights.",
+    price: 124,
+    coverImg: climb,
     stats: {
-      rating: 4.8,
-      reviewCount: 24,
+      rating: 3.9,
+      reviewCount: 12,
     },
-    location: "Norway",
-    openSpots: 3,
+    location: "Chile",
+    openSpots: 8,
   },
 ];
 

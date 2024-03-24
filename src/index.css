@@ -86,7 +86,7 @@ section {
 
 .card-image {
   width: auto;
-  max-height: 500px;
+  max-height: 500px; /* may be a problem on bigger screens */
   border-radius: 9px;
   margin-bottom: 9px;
 }
