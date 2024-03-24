@@ -8,10 +8,10 @@ const Card = (props) => {
       <div className="card-stats">
         <img className="card-star" src={cardStar} />
         <span>{props.rating}</span>
-        <span className="gray">({props.reviewCount}) • </span>
-        <span className="gray">{props.country}</span>
+        <span className="gray-1">({props.reviewCount}) • </span>
+        <span className="gray-2">{props.country}</span>
       </div>
-      <h2>{props.description}</h2>
+      <h2>{props.title}</h2>
       <p>
         {" "}
         <span className="bold">From ${props.price} / person</span>
