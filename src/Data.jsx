@@ -8,7 +8,7 @@ import climb from "./assets/climbing.jpg";
 const Data = [
   {
     id: 1,
-    title: "Swimming lessons with a professional swimmer",
+    title: "Professional swimming lessons",
     description:
       "I will share with you my best tips and tricks from throughout my career, many of my highest moments only came after setbacks and losses. But learning from those difficult moments is what gave me the ability to rise above them and reach my goals.",
     price: 125,
@@ -32,7 +32,7 @@ const Data = [
       reviewCount: 36,
     },
     location: "Online",
-    openSpots: 7,
+    openSpots: 8,
   },
   {
     id: 3,
