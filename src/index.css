@@ -119,3 +119,55 @@ section {
   border-radius: 6px;
   font-weight: bold;
 }
+
+@media only screen and (max-width: 900px) {
+  nav {
+    height: 70px;
+  }
+
+  h2 {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  span {
+    font-size: 0.9rem;
+  }
+
+  .nav-logo {
+    width: 110px;
+    height: 35px;
+  }
+
+  .grid-headline {
+    font-size: 1.5rem;
+  }
+
+  .photo-grid {
+    width: 350px;
+  }
+
+  .grid-paragraph {
+    font-size: 1rem;
+  }
+
+  .card-image {
+    width: auto;
+    height: 300px;
+  }
+  .gray-1 {
+    font-size: 0.9rem;
+  }
+
+  .gray-2 {
+    font-size: 0.9rem;
+  }
+
+  .bold {
+    font-size: 0.9rem;
+  }
+
+  .card-badge {
+    font-size: 0.9rem;
+  }
+}
